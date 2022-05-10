@@ -48,7 +48,8 @@ How do I run your code?
 
 To run the script, download the data folder and the script folder. Create empty directories ‘table’ and ‘figure’, and run the python script in terminal
 ```
-python <path to script>  
+cd <path to script>
+python <script.py>
 ```
 
 What software and package versions do I need to install?
