@@ -21,8 +21,10 @@ Please access the data at (https://www.dropbox.com/sh/rj1o071ufja6c04/AADhtQBcz6
 It was sourced from the following locations:\
 Human eRNA sequences and expression levels were exported from the Human Enhancer RNA Atlas (HeRA) (Zhang et al, 2021)
 https://hanlab.tamhsc.edu/HeRA \
+
 Human eRNA expression data in cancers were exported from the Enhancer RNA in Cancer (eRic) (Zhang et al., 2019)
 https://hanlab.uth.edu/eRic/ \
+
 Mouse eRNA sequences and expression levels were exported from the Animal eRNA Database (Animal-eRNAdb) (Jin et al., 2022)
 http://gong_lab.hzau.edu.cn/Animal-eRNAdb/ \
 
