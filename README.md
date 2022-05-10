@@ -15,14 +15,7 @@ At a high level, how was the data generated?
 If it’s too large to upload to your GitHub, where can it be accessed?
 Include citations, if any.
 
-The data, acquired from the HeRA, is located in this repository and is 
-available at (https://hanlab.tamhsc.edu/HeRA/m1). The eRNA Expression Module
-offers raw data csv files on specific eRNA to analyze their transcriptomic 
-differences across different tissue types. Nothing about these files was changed
-to facilitate the reproducibility of our work.
-
-Z. Zhang et al., “HeRA: an atlas of enhancer RNAs across human tissues,” Nucleic Acids Res.,
-vol. 49, no. D1, pp. D932–D938, 2021.
+Please access the data at (https://www.dropbox.com/sh/rj1o071ufja6c04/AADhtQBcz6WH2l00BzyUl7RQa?dl=0).
 
 <h2>Folder structure </h2>
 
