@@ -1,5 +1,5 @@
 # 20.440_Project
-# Transcriptional landscapes of eRNA in cancer and their comparative analysis with Model Organisms
+# Transcriptional landscapes of eRNA in Cancer and their comparative analysis with Model Organisms
 
 <h2>Overview</h2>
 
